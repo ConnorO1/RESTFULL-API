@@ -1,4 +1,4 @@
-# RESTFUl-API
+# RESTFULL-API
 Basic API that interacts with a database (mongoDB) storing articles. 
 Runs locally on port 3000
 
